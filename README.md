@@ -1,4 +1,4 @@
-# WolfskinScarf
+# Wolfskin Scarf
 
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/wolfscarf.png" width="80%">
 
