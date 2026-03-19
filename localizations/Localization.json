@@ -1,8 +1,10 @@
 {
     "GAMEPLAY_wolfscarf" : {
                             "English" : "Wolfskin Scarf",
+                            "Traditional Chinese": "狼皮圍巾"
     },
     "GAMEPLAY_wolfscarfDescription" : {
-                            "English" : "A long handmade wolfskin scarf that covers the head and face. Very warm."
+                            "English" : "A long handmade wolfskin scarf that covers the head and face. Very warm.",
+                            "Traditional Chinese": "一條長到可以遮住整個頭臉部的手工製狼皮圍巾。非常暖和。"
     }
 }
