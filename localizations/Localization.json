@@ -1,8 +1,10 @@
 {
     "GAMEPLAY_wolfscarf" : {
                             "English" : "Wolfskin Scarf",
+                            "Turkish" : "Kurt Derisi Atkı"
     },
     "GAMEPLAY_wolfscarfDescription" : {
-                            "English" : "A long handmade wolfskin scarf that covers the head and face. Very warm."
+                            "English" : "A long handmade wolfskin scarf that covers the head and face. Very warm.",
+                            "Turkish" : "Baş ve yüzü örten, uzun, el yapımı kurt postu atkı. Çok sıcak tutar."
     }
 }
